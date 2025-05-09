@@ -73,10 +73,10 @@ index 2edcc8f..22313c8 100644
  }
 ```
 
-## Prepare Apache Spark 4.0.0 (RC4) Connect Server.
+## Prepare Apache Spark 4.0.0 (RC5) Connect Server.
 
 ```
-$ curl -LO https://dist.apache.org/repos/dist/dev/spark/v4.0.0-rc4-bin/spark-4.0.0-bin-hadoop3.tgz
+$ curl -LO https://dist.apache.org/repos/dist/dev/spark/v4.0.0-rc5-bin/spark-4.0.0-bin-hadoop3.tgz
 $ tar xvfz spark-4.0.0-bin-hadoop3.tgz
 $ cd spark-4.0.0-bin-hadoop3
 $ sbin/start-connect-server.sh
